@@ -249,7 +249,7 @@ footer .social-links {
   }
 
   #gallery button {
-    max-width: 600px;
+    max-width: 900px;
     width: 100%;
     margin: 2rem auto 0;
     display: block;
@@ -283,7 +283,7 @@ footer .social-links {
   }
 
   #gallery button {
-    max-width: 900px;
+    max-width: 1200px;
     margin: 2rem auto 0;
     display: block;
   }
